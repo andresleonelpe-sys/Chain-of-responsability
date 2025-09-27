@@ -1,6 +1,6 @@
-import handlers.*;
-import requests.*;
-import enums.*;
+import Handler;
+import Request;
+import enum;
 
 
 
@@ -39,3 +39,4 @@ public class main {
         OnlyRecepcionist.processRequest(directorRequest);
     }
 }
+
